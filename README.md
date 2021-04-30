@@ -7,10 +7,10 @@
   <a href="https://medium.com/@nevzatgunay">Medium</a>
 </p>
 
-I'm a __frontend developer__ based in __Turkey__. This is the place where I opensource stuff and break things :rofl:
+I'm a __front-end engineer__ based in __Turkey__. This is the place where I opensource stuff and break things :rofl:
 - 💼 Currently working at [Lifemote Networks](https://www.lifemote.com)
 - 📫 How to reach me: [@nevzatgunay](https://twitter.com/nevzatgunay)
-- ⚡ Fun fact: I :heart: :dog:s
+- ⚡ Fun fact: I :heart: ⚽
 
 <br/>
 <br/>
