@@ -7,8 +7,8 @@
   <a href="https://medium.com/@nevzatgunay">Medium</a>
 </p>
 
-I'm a __front-end engineer__ based in __Turkey__. This is the place where I code open source projects and break things :rofl:
-- 💼 Currently working at [Lifemote Networks](https://www.lifemote.com)
+I'm a __software engineer__ based in __Germany__. This is the place where I code open source projects and break things :rofl:
+- 💼 Currently working at [Klarna](https://www.klarna.com)
 - 📫 How to reach me: [@nevzatgunay](https://twitter.com/nevzatgunay)
 - ⚡ Fun fact: I :heart: :man_cook:, ⚽.
 
